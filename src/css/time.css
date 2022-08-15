@@ -1,0 +1,14 @@
+.component-time {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  height: auto;
+  color: white;
+  position: relative;
+  top: -30%;
+}
+.component-time__title {
+  font-size: 40px;
+}
